@@ -1,5 +1,17 @@
 ﻿# Snake_Game
+COMPANY: CODTECH IT SOLUTIONS
 
+NAME: SRIJAN KUMAR
+
+INTERN ID: CT06DH541
+
+DOMAIN: C++
+
+DURATION: 6 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+DESCRIPTION:
 The Snake Game is a modern C++ implementation of the classic arcade game, designed to provide an interactive and visually appealing gaming experience while showcasing fundamental concepts of game development. Built using the **SFML (Simple and Fast Multimedia Library)** framework, the project demonstrates how to integrate graphics rendering, user input handling, sound effects, and real-time game logic into a cohesive application. The primary objective of the game is simple yet challenging — the player controls a continuously moving snake that must consume food items to grow in length while avoiding collisions with its own body and the boundaries of the game window.
 
 From a technical perspective, the project utilizes **object-oriented programming (OOP)** principles to organize game entities and logic. The snake is represented as a dynamic collection of segments, often stored in a vector or list data structure, allowing efficient insertion and removal of body parts as the snake moves and grows. The food object is placed at random positions within the playfield using pseudo-random number generation, ensuring that it does not overlap with the snake’s body. This requires collision detection logic to check for overlaps between the snake’s head and other objects in the game.
@@ -22,3 +34,4 @@ This Snake Game project not only replicates a nostalgic gameplay experience but 
 
 OUTPUT:
 ![img](https://github.com/user-attachments/assets/d0696f14-b32b-4360-b1d2-c1b8c166896f)
+
